@@ -5,13 +5,13 @@
 - 📫 How to reach me link:[https://www.linkedin.com/in/dur-e-yashfeen-b76a19204/]
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: I am exicted to learn about new things
-- 
+
+- 📊 About Me
 - **🔍 Passionate Learner**: I thrive on learning new techniques and tools in the ever-evolving field of data science.
 - **💻 Technical Skills**: Proficient in Python, R, SQL, and various data visualization tools like Tableau and Matplotlib.
 - **🌍 Real-World Impact**: I focus on projects that solve real-world problems and provide valuable insights.
 
 - ## 🛠️ Skills
-
 - **Data Analysis**: Data cleaning, exploration, and analysis using Pandas and NumPy.
 - **Machine Learning**: Building models using Scikit-learn and TensorFlow.
 - **Data Visualization**: Creating impactful visualizations with Matplotlib, Seaborn, and Tableau.
