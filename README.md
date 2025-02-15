@@ -52,8 +52,3 @@ Fraudulent Transaction Detection 🚨
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dur-e-yashfeen-b76a19204/) 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/dureyashfeen/) 
 
-<!---
-Dur-e-yashfeen/Dur-e-yashfeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
