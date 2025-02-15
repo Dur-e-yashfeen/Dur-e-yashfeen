@@ -8,7 +8,7 @@
 
 - 📊 About Me
 - **🔍 Passionate Learner**: I thrive on learning new techniques and tools in the ever-evolving field of data science.
-- **💻 Technical Skills**: Proficient in Python, R, SQL, and various data visualization tools like Tableau and Matplotlib.
+- **💻 Technical Skills**: Proficient in Python, R, and various data visualization tools like Tableau and Matplotlib.
 - **🌍 Real-World Impact**: I focus on projects that solve real-world problems and provide valuable insights.
 
 - ## 🛠️ Skills
