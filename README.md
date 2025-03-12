@@ -14,7 +14,7 @@
 - ## 🛠️ Skills
 - **Data Analysis**: Data cleaning, exploration, and analysis using Pandas and NumPy.
 - **Machine Learning**: Building models using Scikit-learn and TensorFlow.
-- **Data Visualization**: Creating impactful visualizations with Matplotlib, Seaborn, and Tableau.
+- **Data Visualization**: Creating impactful visualizations with Matplotlib, Seaborn, and PoweBI.
 - **Statistical Analysis**: Applying statistical methods to derive insights from data.
 
 
