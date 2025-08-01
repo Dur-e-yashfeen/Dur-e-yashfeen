@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Dur-e-Yashfeen</h1>
 
 <p align="center">
-  <img src="(https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg)" width="200px" alt="Coding Girl" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Dur-e-yashfeen">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" />
   </a>
@@ -86,8 +82,4 @@
 🔗 [Project Link](https://github.com/Dur-e-yashfeen/fraud-detction)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dur-e-yashfeen/Dur-e-yashfeen/main/assets/coding-illustration.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnK1mCoN3KOiD_--ahR9aoEqwPulrM9wAE0urYn-DWvgPOTi8TZgWgWFBJc-FDpSj3pk&usqp=CAU)" width="700px" />
-</p>
 
