@@ -88,6 +88,6 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dur-e-yashfeen/Dur-e-yashfeen/main/assets/coding-illustration.png" width="700px" />
+  <img src="[https://raw.githubusercontent.com/Dur-e-yashfeen/Dur-e-yashfeen/main/assets/coding-illustration.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnK1mCoN3KOiD_--ahR9aoEqwPulrM9wAE0urYn-DWvgPOTi8TZgWgWFBJc-FDpSj3pk&usqp=CAU)" width="700px" />
 </p>
 
