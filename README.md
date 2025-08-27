@@ -10,13 +10,6 @@
   <a href="https://www.linkedin.com/in/dur-e-yashfeen-b76a19204/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/dureyashfeen/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dur-e-yashfeen&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
