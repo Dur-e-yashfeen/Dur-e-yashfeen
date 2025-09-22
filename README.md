@@ -17,7 +17,7 @@
 ### 👩‍💻 About Me
 
 - 👀 I’m interested in **Data Science and AI**
-- 🌱 Currently interning at **DevelopersHub Corporation** to gain hands-on experience
+- 🌱 Currently praticipating in Kaggle Competition 
 - 💞️ Looking to collaborate with **industry experts**
 - 😄 Pronouns: **She / Her**
 - ⚡ Fun fact: *I'm always excited to learn new things!*
