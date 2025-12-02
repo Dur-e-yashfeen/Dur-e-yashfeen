@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/dur-e-yashfeen-b76a19204/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href=["https://huggingface.co/yashfy](https://huggingface.co/yashfy)">
+  <a href="https://huggingface.co/yashfy">
     <img src="https://img.shields.io/badge/HuggingFace-Space-yellow?style=for-the-badge&logo=huggingface" />
   </a>
 </p>
