@@ -165,16 +165,11 @@ I believe the best solutions emerge from diverse perspectives and collaborative 
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/📧_Email_Me-Contact-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
-  [![Twitter](https://img.shields.io/badge/🐦_Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+  [![Email](https://img.shields.io/badge/📧_Email_Me-Contact-red?style=for-the-badge&logo=gmail)](mailto:dureyashfeen@gmail.com)
 
 </div>
 
 ---
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=Dur-e-yashfeen&color=ce09ec&style=flat" alt="Profile views" />
   
   *"In a world of data, be the signal, not the noise."* 📡
 
