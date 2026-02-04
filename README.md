@@ -132,19 +132,6 @@ Tech Stack: Python · Imbalanced-learn · Scikit-learn · PCA · Matplotlib
 
 ---
 
-## **📊 GitHub Analytics**
-
-<div align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Dur-e-yashfeen&theme=radical&hide_border=true&background=0D1117&stroke=ce09ec)
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Dur-e-yashfeen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&icon_color=ce09ec&text_color=ffffff)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dur-e-yashfeen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&text_color=ffffff)
-
-</div>
-
----
-
 ## **🎯 Current Focus**
 
 - 🏆 **Active Kaggle Competitor** – Applying advanced techniques in real-world challenges
