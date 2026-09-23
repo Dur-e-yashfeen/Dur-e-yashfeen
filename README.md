@@ -37,7 +37,7 @@ Hello! I'm **Dur-e-Yashfeen**, a passionate **Data Science and AI enthusiast** d
 ### **📊 Data Analysis & Engineering**
 ```python
 # My go-to stack for data wrangling
-Tools: Pandas · NumPy · SQL · Excel · R
+Tools: Python · Spss · SQL · Excel · R . Stata  
 ```
 ### **🤖 Machine Learning**
 ```python
